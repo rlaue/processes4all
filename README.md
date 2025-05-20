@@ -13,6 +13,6 @@ Wenn eine digitale Anwendung gut gestaltet ist und die Anforderung der potentiel
 Wenn Nutzer dagegen einen analogen Prozess vorziehen, spricht das nicht gegen diese Nutzer, sondern gegen unsere Anwendung bzw. die Wissensvermittlung darüber. Diese muss dann verbessert werden oder das Anbieten einer analogen Alternative (z. B. persönliche Ansprechpartner, Nennung telefonischer Kontaktmöglichkeiten, Barzahlung) in Betracht gezogen werden – auch, wenn das auf Anbieterseite mit Mehraufwand verbunden ist.
 
 # Lizenz, Weiterentwicklung und Rückmeldungen
-Die Karten entstanden im Rahmen der Lehrtätigkeit im Informatik-Studiengang an der Westsächsischen Hochschule Zwickau. Sie stehen unter einer einer Creative-Commons BY-SA [Creative Commons Attribution ShareAlike 4.0 license](LICENSE).
+Die Karten entstanden im Rahmen der Lehrtätigkeit im Informatik-Studiengang an der Westsächsischen Hochschule Zwickau. Sie stehen unter einer einer [Creative Commons Attribution ShareAlike 4.0 license](LICENSE).
 
 Übersetzungen in andere Sprachen, Vorschläge für Verbesserungen und Erfahrungsberichte beim Einsatz sind willkommen an <Ralf.Laue@fh-zwickau.de>.
