@@ -6,7 +6,7 @@ The files available in PowerPoint and PDF formats (available in German laguage o
 If a digital application is well-designed and considers the requirements of potential users, users will naturally have an interest in using the application.
 If users prefer an analog process, this does not speak against these users, but rather against our application or the knowledge transfer about it. This then needs to be improved or the provision of an analog alternative (e.g. personal contact persons, telephone contact options, cash payment) should be considered – even if this involves additional effort on the provider's side.
 
-## Germam
+## German
 Die in den Formten PowerPoint und PDF verfügbaren Dateien können als Karten ausgedruckt und in Workshops zum Design oder zur Verbesserung von Geschäftsprozessen genutzt werden. Das Ziel ist es, die Prozessdesigner auf die Gründe aufmerksam zu machen, aus denen potentielle Prozessteilnehmer eine digitale Lösung nicht nutzen können oder wollen.
 
 Wenn eine digitale Anwendung gut gestaltet ist und die Anforderung der potentiellen Nutzer berücksichtigt, haben die Nutzer von sich aus ein Interesse, die Anwendung zu nutzen.
